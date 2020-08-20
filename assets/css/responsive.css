@@ -1,0 +1,402 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*navbar*/
+	.n_menu {
+	    margin-top: 10px;
+	}
+	.n_menu li a {
+	    margin-top: 10px;
+	    text-align: right;
+	}
+	/*navbar*/
+
+	/*home*/
+	.n_home_h {
+	    font-size: 25px;
+	}
+	.n_home_block p {
+	    margin-top: 5px;
+	    margin-bottom: 15px;
+	}
+	.n_home_btn {
+	    font-size: 16px;
+	    padding: 8px 35px;
+	}
+	/*home*/
+
+	/*about*/
+	.about {
+	    padding: 25px 0;
+	}
+	.n_title_block {
+	    margin-bottom: 45px;
+	}
+	.n_sec_title {
+	    font-size: 24px;
+	}
+	.n_about_content {
+	    margin-top: 20px;
+	}
+	.n_about_content h2 {
+	    font-size: 18px;
+	}
+	.n_about_content p {
+	    word-spacing: 0px;
+	    margin-top: 0px;
+	    margin-bottom: 5px;
+	}
+	.n_cv_btn {
+	    font-weight: 700;
+	    padding: 10px 18px;
+	    margin-top: 7px;
+	}
+	/*about*/
+
+	/*video info*/
+	.video_info{
+		padding: 25px 0;
+	}
+	.video_info_content h1 {
+	    font-size: 20px;
+	}
+	.video_info_content a {
+	    font-size: 28px;
+	    width: 65px;
+	    height: 65px;
+	    line-height: 65px;
+	    margin-top: 25px;
+	}
+	/*video info*/
+	/*services*/
+	.services {
+	    padding: 25px 0;
+	}
+	.service_title {
+	    margin-bottom: 20px;
+	}
+	.n_service_item {
+	    margin-top: 30px;
+	}
+	.service_icon i {
+	    font-size: 28px;
+	}
+	/*services*/
+	/*skill*/
+	.skill {
+	    padding: 25px 0;
+	}
+	.n_why h2 {
+	    font-size: 20px;
+	}
+	.n_why p {
+	    margin-top: 8px;
+	}
+	.n_skill_bar h2 {
+	    font-size: 20px;
+	}
+	.n_skill_bar p { 
+	    margin-top: 8px;
+	}
+	/*skill*/
+
+	/*count*/
+	.count{
+		padding: 25px 0;
+	}
+	.count_content {
+	    margin-top: 20px;
+	}
+	.count_content i {
+	    font-size: 18px;
+	    width: 40px;
+	    height: 40px;
+	    line-height: 40px;
+	}
+	.count_content span {
+	    font-size: 22px;
+	}
+	/*count*/
+
+	/*portfolio*/
+	.portfolio{
+		padding: 25px 0;
+	}
+	.mixup_btn ul li a {
+	    padding: 0px 5px;
+	}
+	.n_portfolio_single img{
+		width: 100%;
+	}
+	/*portfolio*/
+	/*team*/
+	.team{
+		padding: 25px 0;
+	}
+	.n_single_team img {
+	    width: 100%;
+	    margin-top: 20px;
+	}
+	.n_single_team:hover .n_single_overlay{
+		top:83%;
+	}
+	/*team*/
+
+	/*contact*/
+	.contact{
+		padding: 25px 0;
+	}
+	.n_form{
+		margin-bottom: 18px;
+	}
+	.n_con_btn {
+    font-size: 16px;
+    padding: 9px 18px;
+}
+	/*contact*/
+	/*footer*/
+	.n_f_social{
+		text-align: center!important;
+	}
+	.n_copy_text{
+		text-align: center!important;
+	}
+	/*footer*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*navbar*/
+	.n_menu {
+	    margin-top: 10px;
+	}
+	.n_menu li a {
+	    margin-top: 10px;
+	    text-align: right;
+	}
+	/*navbar*/
+	/*home*/
+	.n_home_h {
+	    font-size: 35px;
+	}
+	.n_home_block p {
+	    margin-top: 5px;
+	    margin-bottom: 15px;
+	}
+	.n_home_btn {
+	    font-size: 16px;
+	    padding: 8px 35px;
+	}
+	/*home*/
+
+	/*about*/
+	.about {
+	    padding: 50px 0;
+	}
+	.n_title_block {
+	    margin-bottom: 50px;
+	}
+	.n_sec_title {
+	    font-size: 28px;
+	}
+	.n_about_img img {
+	    width: 100%;
+	}
+	.n_about_img:hover .n_about_overlay {
+	    top: 86%;
+	}
+	.n_about_content {
+	    margin-top: 20px;
+	}
+	.n_about_content h2 {
+	    font-size: 22px;
+	}
+	.n_about_content p {
+	    word-spacing: 0px;
+	    margin-top: 0;
+	    margin-bottom: 6px;
+	}
+	.n_cv_btn {
+	    margin-top: 15px;
+	}
+	/*about*/
+
+	/*video info*/
+	.video_info{
+		padding: 50px 0;
+	}
+	.video_info_content h1 {
+	    font-size: 28px;
+	}
+	.video_info_content a {
+	    font-size: 30px;
+	    width: 70px;
+	    height: 70px;
+	    line-height: 70px;
+	    margin-top: 25px;
+	}
+	/*video info*/
+	/*services*/
+	.services {
+	    padding: 50px 0;
+	}
+	.service_title {
+	    margin-bottom: 20px;
+	}
+	.n_service_item {
+	    margin-top: 30px;
+	}
+	.service_icon i {
+	    font-size: 28px;
+	}
+	/*services*/
+
+	/*skill*/
+	.skill {
+	    padding: 50px 0;
+	}
+	/*skill*/
+
+	/*count*/
+	.count{
+		padding: 50px 0;
+	}
+	.count_content {
+	    margin-top: 20px;
+	}
+	.count_content i {
+	    font-size: 18px;
+	    width: 40px;
+	    height: 40px;
+	    line-height: 40px;
+	}
+	.count_content span {
+	    font-size: 22px;
+	}
+	/*count*/
+
+	/*portfolio*/
+	.portfolio{
+		padding: 50px 0;
+	}
+	.mixup_btn ul li a {
+	    padding: 0px 5px;
+	}
+	.n_portfolio_single img{
+		width: 100%;
+	}
+	/*portfolio*/
+
+	/*team*/
+	.team{
+		padding: 50px 0;
+	}
+	.n_single_team img {
+	    width: 100%;
+	    margin-top: 20px;
+	}
+	.n_single_team:hover .n_single_overlay{
+		top:85%;
+	}
+	/*team*/
+
+	/*contact*/
+	.contact{
+		padding: 50px 0;
+	}
+	.n_form{
+		margin-bottom: 20px;
+	}
+	/*contact*/
+
+	/*footer*/
+	.n_f_social{
+		text-align: center!important;
+	}
+	.n_copy_text{
+		text-align: center!important;
+	}
+	/*footer*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*navbar*/
+	.n_menu {
+	    margin-top: 10px;
+	}
+	.n_menu li a {
+	    margin-top: 10px;
+	    text-align: right;
+	}
+	/*navbar*/
+
+	/*home*/
+	.n_home_block p {
+	    margin-top: 5px;
+	    margin-bottom: 15px;
+	}
+	/*home*/
+
+	/*about*/
+	.n_about_content {
+	    margin-top: 0px;
+	}
+	.n_about_content h2 {
+	    font-size: 22px;
+	}
+	.n_about_content p {
+	    word-spacing: 0px;
+	    margin-top: 0;
+	    margin-bottom: 6px;
+	}
+	.n_cv_btn {
+	    margin-top: 5px;
+	}
+	/*about*/
+
+	/*services*/
+	.service_title {
+	    margin-bottom: 20px;
+	}
+	.n_service_item {
+	    margin-top: 30px;
+	}
+	/*services*/
+
+	/*count*/
+	.count_content {
+	    margin-top: 25px;
+	}
+	/*count*/
+
+	/*team*/
+	.n_single_team img {
+	    width: 100%;
+	    margin-top: 20px;
+	}
+	.n_single_team:hover .n_single_overlay{
+		top:78%;
+	}
+	/*team*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*about*/
+	.n_about_content {
+	    margin-top: 0px;
+	    margin-bottom: 5px;
+	}
+	.n_about_content p {
+	    word-spacing: 2px;
+	}
+	.n_cv_btn {
+	    margin-top: 5px;
+	}
+	/*about*/
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
